@@ -54,7 +54,7 @@ const Hero = () => {
               <a href="/#contact">Contact Me</a>
             </button>
             <button className="bg-white text-black hover:bg-gray-300 font-semibold py-2 px-6 rounded-full w-40 border border-grey-500">
-              <a href="https://drive.google.com/file/d/1cQ_zRUtZv5yI8YXHTDYTiwVIjnupVb9b/view?usp=sharing">
+              <a href="https://drive.google.com/file/d/1mrsk_MoQRMP4EAWGScf3OSS17jLpx7Ki/view">
                 Resume
               </a>
             </button>
