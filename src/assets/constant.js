@@ -27,7 +27,7 @@ const project = [
     img: portfolio,
     content:
       "Designed and developed a personal portfolio website using React and Tailwind CSS, showcasing responsive design and a seamless user experience.Integrated EmailJS to facilitate  communication",
-    icons: [react, tailwind],
+    icons: [react, tailwind, mui],
     git: "https://github.com/abhishek8094/MyJs-Portfolio",
     link: "https://abhisheksingh8.netlify.app/",
   },
