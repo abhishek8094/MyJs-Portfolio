@@ -4,6 +4,7 @@ import CapitalShop from "../assets/project/CapitalShop.png";
 import portfolio from "../assets/project/Portfolio.png";
 import password from "../assets/project/password.png";
 import weather from "../assets/project/weather.png";
+import mui from "/skillsicon/mui.png";
 import html from "/skillsicon/html.png";
 import css from "/skillsicon/css-3.png";
 import js from "/skillsicon/js.png";
