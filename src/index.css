@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+       
+   
+  background-color: black;
+  color: white;
+  overflow: hidden;
+   
+}
+html {
+  scroll-behavior: smooth;
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
+}
