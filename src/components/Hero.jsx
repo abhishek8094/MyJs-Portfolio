@@ -46,15 +46,14 @@ const Hero = () => {
             />
           </p>
           <p className="mb-6 text-md sm:text-lg">
-            A Final year Student at Dr. Ram Manohar Lohia Avadh University
-            Ayodhya.
+          A proud graduate of Dr. Ram Manohar Lohia Avadh University, Ayodhya, with a B.Tech in Computer Science Engineering.
           </p>
           <div className="flex space-x-4">
             <button className="bg-red-500 hover:bg-red-600 text-white font-semibold py-2 px-6 rounded-full w-40">
               <a href="/#contact">Contact Me</a>
             </button>
             <button className="bg-white text-black hover:bg-gray-300 font-semibold py-2 px-6 rounded-full w-40 border border-grey-500">
-              <a href="https://drive.google.com/file/d/1W5itcTunuzvlL4ty4D8XasJSiRGNUFGV/view?usp=sharing">
+              <a href="https://drive.google.com/file/d/1su4vs8HlUXlvqa6QAcxbWcpZngA-IC_E/view?usp=drive_link">
                 Resume
               </a>
             </button>
